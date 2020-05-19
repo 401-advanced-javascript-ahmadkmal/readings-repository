@@ -7,9 +7,9 @@
 
 |exercise name | the link     | 
 |--------------|--------------|
-|class-01      | [class-01](https://ahmadkmal.github.io/classing-notes/class-1)            |
-|class-02      |  [class-02](https://ahmadkmal.github.io/classing-notes/class-2)           |
-|class-03      |  [class-03](https://ahmadkmal.github.io/classing-notes/class-3)           |
+|class-01      | [class-01](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class01)            |
+|class-02      |  [class-02](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class02)           |
+|class-03      |  [class-03](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class03)           |
 |class-04      |  [class-04](https://ahmadkmal.github.io/classing-notes/class-4)           |
 |class-05      |  [class-05](https://ahmadkmal.github.io/classing-notes/class-5)           |
 |class-06      |  [class-06](https://ahmadkmal.github.io/classing-notes/class-6)           |
