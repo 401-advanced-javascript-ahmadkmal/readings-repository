@@ -19,6 +19,6 @@
 |class-15      |  [class-15](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class15)           |
 |class-16      |  [class-16](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class16)           |
 |class-17      |  [class-16](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class17)           |
-|class-13      |  class-13)           |
+|class-18      |  [class-18](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class18)           |
 |class-14a      |  class-14a)           |
 |class-14b      |  class-14b)           | 
