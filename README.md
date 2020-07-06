@@ -26,4 +26,5 @@
 |class-28      |  [class-28](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class28)           |
 |class-29      |  [class-29](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class29)           |
 |class-30      |  [class-30](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class30)           |
+|class-32      |  [class-32](https://401-advanced-javascript-ahmadkmal.github.io/readings-repository/class32)           |
 |class-14b      |  class-14b)           | 
