@@ -6,7 +6,7 @@ The combineReducers helper function turns an object whose values are different r
 
 The resulting reducer calls every child reducer, and gathers their results into a single state object. The state produced by combineReducers() namespaces the states of each reducer under their keys as passed to combineReducers()
 
-```rootReducer = combineReducers({potato: potatoReducer, tomato: tomatoReducer})
+``` rootReducer = combineReducers({potato: potatoReducer, tomato: tomatoReducer})
 // This would produce the following state object
 {
   potato: {
@@ -15,7 +15,7 @@ The resulting reducer calls every child reducer, and gathers their results into 
   tomato: {
     // ... tomatoes, and other state managed by the tomatoReducer, maybe some nice sauce? ...
   }
-}```
+} ```
 
 You can control state key names by using different keys for the reducers in the passed object. For example, you may call combineReducers({ todos: myTodosReducer, counter: myCounterReducer }) for the state shape to be { todos, counter }.
 
