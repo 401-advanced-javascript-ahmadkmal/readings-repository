@@ -15,7 +15,7 @@ The resulting reducer calls every child reducer, and gathers their results into 
   tomato: {
     // ... tomatoes, and other state managed by the tomatoReducer, maybe some nice sauce? ...
   }
-} ```
+} 
 
 You can control state key names by using different keys for the reducers in the passed object. For example, you may call combineReducers({ todos: myTodosReducer, counter: myCounterReducer }) for the state shape to be { todos, counter }.
 
